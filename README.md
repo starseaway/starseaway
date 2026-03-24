@@ -1,6 +1,6 @@
 ## 👋 Hello there (´･ᴗ･`)
 
-你好！(。・∀・)ノ这里是我的 GitHub 个人主页。 starseaway — under star, above sea.
+你好！(。・∀・)ノ这里是我的 GitHub 个人主页。 starseaway（星海之路） — under star, above sea.
 
 > _Still on the way._
 
