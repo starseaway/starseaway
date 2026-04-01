@@ -8,6 +8,8 @@
 
 ### 🌌 关于我
 
+<img src="/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 - 一名全干开发工程师，啥都干🤣
 
 ### 🛠️ 经常整的活
