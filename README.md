@@ -1,6 +1,6 @@
 ## 👋 Hello there (´･ᴗ･`)
 
-你好！(。・∀・)ノ这里是我的 GitHub 个人主页。 starseaway（星海之路） — under star, above sea.
+你好！(。・∀・)ノ这里是我的 GitHub 个人主页。 starseaway — 星海之路
 
 > _Still on the way._
 
@@ -10,7 +10,8 @@
 
 <img src="/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-- 一名全干开发工程师，啥都干🤣
+- 全干开发工程师，啥都干🤣
+- 青铜级 Minecraft 玩家 <img src="/mc.ico" height="20" width="20"/>
 
 ### 🛠️ 经常整的活
 
@@ -25,11 +26,11 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 
-### 🚧 在做什么
+### 🚧 最近在做的事
 
 - 🧩 构建可复用的工程能力，并持续沉淀为开源项目 （基础设施 / 架构抽象 / 工具链等）
 - 🔍 Android 方向的一些底层探索 / Hook / 虚拟化思路
-- ⚙️ 持续实现和打磨各种想法，而不是停留在想法本身
+- ⚙️ 持续实现技术想法，从概念到落地，确保可用和可复用
 
 ---
 
