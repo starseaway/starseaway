@@ -4,6 +4,10 @@
 
 > _Still on the way._
 
+<p align="center">
+  <img src="https://api.moedog.org/count/@starseaway?name=starseaway&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+</p>
+
 ---
 
 ### 🌌 关于我
