@@ -8,8 +8,6 @@
 
 ### 🌌 关于我
 
-<img src="/illustration.png" min-width="150px" max-width="150px" width="150px" align="right"> 
-
 - 全干开发工程师，啥都干，覆盖端到端技术栈🤣
 - 不追求“能跑”，更关注“可维护与可扩展”，决不被短期工程主义同化🚫
 - 青铜级 Minecraft 玩家 <img src="/mc.ico" height="20" width="20"/>
