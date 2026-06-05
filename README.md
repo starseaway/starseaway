@@ -17,9 +17,20 @@
 - 青铜级 Minecraft 玩家 <img src="/mc.ico" height="20" width="20"/>
 - 爱好历史叙事、文学表达与美术形式 🌿
 
-#### <a href="https://andcode.codinglab.top/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs-Android Style Guide-3DDC84?style=flat-square&logo=android&logoColor=fff"></a>
+### 📝 Android Style Guide
 
-长期维护的 Android 现代化开发与架构设计规范：**[查阅设计规范 🚀](https://andcode.codinglab.top/)**
+<p>
+  <a href="https://andcode.codinglab.top/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Docs-Android Style Guide-3DDC84?style=flat-square&logo=android&logoColor=fff" alt="Android Style Guide Badge">
+  </a>
+</p>
+
+<p>
+  长期维护的 Android 现代化开发与架构设计规范：
+  <strong>
+    <a href="https://andcode.codinglab.top/" target="_blank" rel="noopener noreferrer">查阅设计规范 🚀</a>
+  </strong>
+</p>
 
 ### 🛠️ 经常整的活
 
