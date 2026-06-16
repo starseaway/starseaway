@@ -14,7 +14,7 @@
 
 - 全干开发工程师，啥都干，覆盖端到端技术栈🤣
 - 不追求“能跑”，更关注“可维护与可扩展”，决不被短期工程主义同化🚫 
-- 青铜级 Minecraft 玩家 <img src="/mc.ico" height="20" width="20"/>
+- 只会搭火柴盒的青铜级 Minecraft 玩家 <img src="/mc.ico" height="20" width="20"/>
 - 爱好历史叙事、文学表达与美术形式 🌿
 
 #### <a href="https://andcode.codinglab.top/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs-Android Style Guide-3DDC84?style=flat-square&logo=android&logoColor=fff"></a>
