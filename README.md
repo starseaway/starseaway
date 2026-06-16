@@ -17,7 +17,7 @@
 - 只会搭火柴盒的青铜级 Minecraft 玩家 <img src="/mc.ico" height="20" width="20"/>
 - 爱好历史叙事、文学表达与美术形式 🌿
 
-#### <a href="https://andcode.codinglab.top/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs-Android Style Guide-3DDC84?style=flat-square&logo=android&logoColor=fff"></a>
+<a href="https://andcode.codinglab.top/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Docs-Android Style Guide-3DDC84?style=flat-square&logo=android&logoColor=fff"></a>
 
 我在长期维护一份 Android 现代化开发与架构设计规范文档：**[查阅设计规范 🚀](https://andcode.codinglab.top/)**
 
